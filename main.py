@@ -1,3 +1,8 @@
+# Code by karan
+# first install cv2
+# install cvzone
+# install FaceMeshDetector
+# install LivePlot
 import cv2
 import cvzone
 from cvzone.FaceMeshModule import FaceMeshDetector
